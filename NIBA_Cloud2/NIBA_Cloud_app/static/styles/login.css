@@ -1,0 +1,61 @@
+.authDiv{
+	
+	justify-content: center;
+	padding-top: 170px;
+}
+
+.imageDiv{
+	
+	background-image:url("images/niba.jpg") no-repeat;
+}
+.dashboard{
+	font-size: 23px;
+	font-weight: bold;
+	margin-bottom: 30px;
+	color: red;
+}
+
+.divInput{
+	width: 100%;
+	justify-content: center;
+
+}
+
+
+.label{
+	margin-left: 160px;
+	margin-bottom: 5px;
+	font-size: 20px;
+
+}
+
+
+.input{
+	border-radius: 5px;
+	height: 60px;
+	margin-top: 2px;
+	width: 330px;
+	margin-left: 150px;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+
+}
+
+
+.connexion{
+	color: white;
+	background-color: #004dcf;
+	border-radius: 10px;
+	height: 60px;
+	margin-top: 80px;
+	width: 330px;
+	margin-left: 150px;
+	font-size: 20px;
+	font-weight: bold;
+
+}
+.connexion a {
+	text-decoration: none;
+	color: white;
+}
+
